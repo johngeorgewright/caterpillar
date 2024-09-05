@@ -1244,7 +1244,7 @@ __metadata:
   dependencies:
     "@gen-x/core": "workspace:packages/core"
     "@gen-x/run": "workspace:packages/run"
-    "@johngw/async-iterator": 3.3.1
+    "@johngw/async-iterator": 4.0.1
     "@johngw/function": ^1.0.0
     "@semantic-release/commit-analyzer": 9.0.2
     "@semantic-release/exec": 6.0.3
@@ -1586,26 +1586,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@johngw/async-iterator@npm:3.3.1, @johngw/async-iterator@npm:^3.0.0":
-  version: 3.3.1
-  resolution: "@johngw/async-iterator@npm:3.3.1"
+"@johngw/async-iterator@npm:4.0.1, @johngw/async-iterator@npm:^4.0.0":
+  version: 4.0.1
+  resolution: "@johngw/async-iterator@npm:4.0.1"
   dependencies:
-    "@johngw/async": 4.1.1
-    "@johngw/object": 1.2.1
-    node-abort-controller: ^3.0.0
-    tslib: ^2.3.1
-  checksum: 2aad3ed6053aee95e732ccb5864f5ac65edc5609807679e78bd0e6b0c4bae67cbd786b0701969592b59f26092d8ba0e0a6cb5ff0778695e49a66e57a972be858
+    "@johngw/async": 5.0.1
+    "@johngw/object": 1.2.3
+    tslib: 2.5.2
+  checksum: bc30e75b94defce0878a5847cc317c49d080b0a93c09fd54e03deced42c1e116488f61026757361010ae9ccbdd3d152e5f9b28403a1e8aa451c63f94c5270a1e
   languageName: node
   linkType: hard
 
-"@johngw/async@npm:4.1.1":
-  version: 4.1.1
-  resolution: "@johngw/async@npm:4.1.1"
+"@johngw/async@npm:5.0.1":
+  version: 5.0.1
+  resolution: "@johngw/async@npm:5.0.1"
   dependencies:
-    "@johngw/object": 1.2.1
-    node-abort-controller: ^3.0.0
-    tslib: ^2.3.1
-  checksum: 2d001a4348a9c9d77a99c3b90cba5f3e15209960ff8448df1c13ff934b19dcf4babe3b71f08a867f39631c125bc6dec096aa3966dbe6eeb51baefd0cd95792ae
+    "@johngw/object": 1.2.3
+    tslib: 2.5.2
+  checksum: e26f26d5defae55e9355bb1f8169297a6a511645eaf2e0e5887b4a0cc21cb02ecd1206dcf37a24f6263902264054304a7733cfc4732b05d9ba5315daf7111b03
   languageName: node
   linkType: hard
 
@@ -1618,12 +1616,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@johngw/object@npm:1.2.1":
-  version: 1.2.1
-  resolution: "@johngw/object@npm:1.2.1"
+"@johngw/object@npm:1.2.3":
+  version: 1.2.3
+  resolution: "@johngw/object@npm:1.2.3"
   dependencies:
-    tslib: ^2.3.1
-  checksum: b6654a790b1d426c1fd89ccf59d16bce55163864bd89e65c6980ad1f266133f308e4be23d1d15044f51a75c0055f027eafb976e7c7e5062876abfd06b08ddf0d
+    tslib: 2.5.2
+  checksum: 60a0dd4248eb12d004b4530850fce0b3d965809228ab7e60f75c46c36f810d0b91b0447ffae7158442c2a2ae83d09ac23d6cf0b0f45eb48b9ba24054a00ae5ac
   languageName: node
   linkType: hard
 
@@ -8196,7 +8194,7 @@ fsevents@^2.3.2:
     "@commitlint/config-conventional": 17.8.1
     "@commitlint/config-lerna-scopes": 17.8.1
     "@gen-x/silo": "workspace:packages/silo"
-    "@johngw/async-iterator": ^3.0.0
+    "@johngw/async-iterator": ^4.0.0
     "@semantic-release/commit-analyzer": 9.0.2
     "@semantic-release/exec": 6.0.3
     "@semantic-release/git": 10.0.1
@@ -12886,13 +12884,6 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"node-abort-controller@npm:^3.0.0":
-  version: 3.0.1
-  resolution: "node-abort-controller@npm:3.0.1"
-  checksum: 2b3d75c65249fea99e8ba22da3a8bc553f034f44dd12f5f4b38b520f718b01c88718c978f0c24c2a460fc01de9a80b567028f547b94440cb47adeacfeb82c2ee
-  languageName: node
-  linkType: hard
-
 "node-emoji@npm:^1.11.0":
   version: 1.11.0
   resolution: "node-emoji@npm:1.11.0"
@@ -17444,7 +17435,7 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"tslib@npm:^2, tslib@npm:^2.0.3, tslib@npm:^2.3.1":
+"tslib@npm:^2, tslib@npm:^2.0.3":
   version: 2.3.1
   resolution: "tslib@npm:2.3.1"
   checksum: de17a98d4614481f7fcb5cd53ffc1aaf8654313be0291e1bfaee4b4bb31a20494b7d218ff2e15017883e8ea9626599b3b0e0229c18383ba9dce89da2adf15cb9

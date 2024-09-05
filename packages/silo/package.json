@@ -20,7 +20,7 @@
   "devDependencies": {
     "@gen-x/core": "workspace:packages/core",
     "@gen-x/run": "workspace:packages/run",
-    "@johngw/async-iterator": "3.3.1",
+    "@johngw/async-iterator": "4.0.1",
     "@semantic-release/commit-analyzer": "9.0.2",
     "@semantic-release/exec": "6.0.3",
     "@semantic-release/git": "10.0.1",
