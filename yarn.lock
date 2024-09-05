@@ -8207,7 +8207,7 @@ fsevents@^2.3.2:
     cz-lerna-changelog: 2.0.3
     husky: 8.0.3
     isbinaryfile: 4.0.10
-    json-parse-even-better-errors: 2.3.1
+    json-parse-even-better-errors: 4.0.0
     lerna: 3.22.1
     lint-staged: 13.3.0
     mkdirp-infer-owner: 2.0.0
@@ -11000,7 +11000,14 @@ fsevents@^2.3.2:
   languageName: node
   linkType: hard
 
-"json-parse-even-better-errors@npm:2.3.1, json-parse-even-better-errors@npm:^2.3.0, json-parse-even-better-errors@npm:^2.3.1":
+"json-parse-even-better-errors@npm:4.0.0":
+  version: 4.0.0
+  resolution: "json-parse-even-better-errors@npm:4.0.0"
+  checksum: da1ae7ef0cc9db02972a06a71322f26bdcda5d7f648c23b28ce7f158ba35707461bcbd91945d8aace10d8d79c383b896725c65ffa410242352692328aa9b5edf
+  languageName: node
+  linkType: hard
+
+"json-parse-even-better-errors@npm:^2.3.0, json-parse-even-better-errors@npm:^2.3.1":
   version: 2.3.1
   resolution: "json-parse-even-better-errors@npm:2.3.1"
   checksum: 798ed4cf3354a2d9ccd78e86d2169515a0097a5c133337807cdf7f1fc32e1391d207ccfc276518cc1d7d8d4db93288b8a50ba4293d212ad1336e52a8ec0a941f
