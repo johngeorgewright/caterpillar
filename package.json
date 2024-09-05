@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@gen-x/silo": "workspace:packages/silo",
-    "@johngw/async-iterator": "^3.0.0",
+    "@johngw/async-iterator": "^4.0.0",
     "add": "^2.0.6"
   }
 }
