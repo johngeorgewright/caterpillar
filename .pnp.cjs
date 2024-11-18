@@ -88,7 +88,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["add", "npm:2.0.6"],
             ["commitizen", "npm:4.3.0"],
             ["cz-lerna-changelog", "virtual:bb0c4e513c9d6f87080de5fa625b5b654d3ff3ddf1ea55a205a8593b449454da72d98681c95c5ee78fa6faa2889d25910de662b128156625852feba3728ea8bd#npm:2.0.3"],
-            ["husky", "npm:8.0.3"],
+            ["husky", "npm:9.1.7"],
             ["isbinaryfile", "npm:4.0.10"],
             ["json-parse-even-better-errors", "npm:2.3.1"],
             ["lerna", "npm:3.22.1"],
@@ -9546,7 +9546,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["add", "npm:2.0.6"],
             ["commitizen", "npm:4.3.0"],
             ["cz-lerna-changelog", "virtual:bb0c4e513c9d6f87080de5fa625b5b654d3ff3ddf1ea55a205a8593b449454da72d98681c95c5ee78fa6faa2889d25910de662b128156625852feba3728ea8bd#npm:2.0.3"],
-            ["husky", "npm:8.0.3"],
+            ["husky", "npm:9.1.7"],
             ["isbinaryfile", "npm:4.0.10"],
             ["json-parse-even-better-errors", "npm:2.3.1"],
             ["lerna", "npm:3.22.1"],
@@ -10601,10 +10601,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["husky", [
-        ["npm:8.0.3", {
-          "packageLocation": "./.yarn/cache/husky-npm-8.0.3-b0b59c5127-837bc7e441.zip/node_modules/husky/",
+        ["npm:9.1.7", {
+          "packageLocation": "./.yarn/cache/husky-npm-9.1.7-5b02eaabc4-c2412753f1.zip/node_modules/husky/",
           "packageDependencies": [
-            ["husky", "npm:8.0.3"]
+            ["husky", "npm:9.1.7"]
           ],
           "linkType": "HARD",
         }]
